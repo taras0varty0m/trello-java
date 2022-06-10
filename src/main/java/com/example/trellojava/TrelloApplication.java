@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrelloJavaApplication {
+public class TrelloApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TrelloJavaApplication.class, args);
+        SpringApplication.run(TrelloApplication.class, args);
     }
 
 
